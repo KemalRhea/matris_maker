@@ -39,7 +39,7 @@ def emrehoca():
     t.goto(-155,130)
     t.pendown()
     t.color('white')
-    t.write("KEMAL <3 ZEYNEP",font=("Verdana",25,"bold"))
+    t.write("KEMOŞ & ZEYNOŞ",font=("Verdana",25,"bold"))
 
     t.penup()
     t.goto(-400,-180)
